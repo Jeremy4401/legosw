@@ -1,0 +1,67 @@
+<files>
+<file name="Lego Star Wars The Complete Saga (2007-09-25).7z" source="original">
+<mtime>1662135222</mtime>
+<size>5100629892</size>
+<md5>f3ce26e4c35aa6acfe4012a6252fb9b2</md5>
+<crc32>ac14cc10</crc32>
+<sha1>bebeff372f1624b27e70006b7ad03e8d6126a8ab</sha1>
+<format>7z</format>
+<filecount>2</filecount>
+</file>
+<file name="__ia_thumb.jpg" source="original">
+<mtime>1662135339</mtime>
+<size>9003</size>
+<md5>55bf8f1f77c07abce69838b4d71ca605</md5>
+<crc32>628d6c8e</crc32>
+<sha1>cf2be58ed6d7388b51b0df345020592c3e0f86a7</sha1>
+<format>Item Tile</format>
+<rotation>0</rotation>
+</file>
+<file name="lego-star-wars-the-complete-saga-2007-09-25.-7z_archive.torrent" source="metadata">
+<btih>d32a50903107d4a61bc0c9f1771d41e976457b44</btih>
+<mtime>1698242892</mtime>
+<size>27270</size>
+<md5>00890e6129721724b7cd6fbe4ef0063d</md5>
+<crc32>28a09865</crc32>
+<sha1>d80664caecf4fdac4bd5074857dd2f77402f1cdb</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="lego-star-wars-the-complete-saga-2007-09-25.-7z_files.xml" source="original">
+<format>Metadata</format>
+<md5>e323b109a68b3b87082a09d1f8993dd5</md5>
+<summation>md5</summation>
+</file>
+<file name="lego-star-wars-the-complete-saga-2007-09-25.-7z_meta.sqlite" source="original">
+<mtime>1662135291</mtime>
+<size>20480</size>
+<md5>33de76c3c55fdf4ae16595db12d314fd</md5>
+<crc32>85676142</crc32>
+<sha1>b48b8062702dace4222be3af25286de3ac787b40</sha1>
+<format>Metadata</format>
+</file>
+<file name="lego-star-wars-the-complete-saga-2007-09-25.-7z_meta.xml" source="original">
+<mtime>1698242889</mtime>
+<size>943</size>
+<md5>53b242ad979daf84c69578b1ce9f0040</md5>
+<crc32>2b9edbe9</crc32>
+<sha1>79f88821cee66aae3baaf97dbbba283ca293cb40</sha1>
+<format>Metadata</format>
+</file>
+<file name="xenia_DVCE20c5jn.png" source="original">
+<mtime>1662135246</mtime>
+<size>621968</size>
+<md5>007ffa8e12adb33e2f561f7bc6c8d239</md5>
+<crc32>79cc4e1a</crc32>
+<sha1>10a4850ce848a5798357b89bdc7d0b664d5600d1</sha1>
+<format>PNG</format>
+</file>
+<file name="xenia_DVCE20c5jn_thumb.jpg" source="derivative">
+<format>JPEG Thumb</format>
+<original>xenia_DVCE20c5jn.png</original>
+<mtime>1662135494</mtime>
+<size>7185</size>
+<md5>412c195a21ca098232524e3fcd565655</md5>
+<crc32>8d27d6ee</crc32>
+<sha1>4a9789d91a128eee863ec0d922bc06c3400b78e2</sha1>
+</file>
+</files>
